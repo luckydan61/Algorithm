@@ -1,0 +1,14 @@
+﻿Build started 2016/4/10 10:43:29.
+     1>Project "D:\MyList\12.学习\Introduction to Algorithms\Introduction to Algorithms\Introduction to Algorithms\Introduction to Algorithms.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\MyList\12.学习\Introduction to Algorithms\Introduction to Algorithms\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Introduction to Algorithms.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Introduction to Algorithms.unsuccessfulbuild".
+         Touching "Debug\Introduction to Algorithms.lastbuildstate".
+     1>Done Building Project "D:\MyList\12.学习\Introduction to Algorithms\Introduction to Algorithms\Introduction to Algorithms\Introduction to Algorithms.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
